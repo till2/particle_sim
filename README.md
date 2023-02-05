@@ -1,5 +1,5 @@
 ## 
-# <div align="center">Agentenbasierte Simulation der COVID-19 Pandemie <br/> mit einem SEIR-Modell </div>
+# <div align="center">Agent-Based Simulation of the COVID-19 Pandemic <br/> using a SEIR-Model </div>
 ######  <div align="center">Ein Projekt im Modul Simulation & Modellierung von Till Zemann & Ben Kampmann.</div>
 
 
