@@ -233,7 +233,7 @@ class Pathfinder:
             # the heatmap tensor doesn't exist yet
             raise Exception(
                 "Heatmap-Tensor not found Error: \n \
-                The heatmap tensor doesn't exist yet. Set use_precomputed_heatmaps to True and run the code again \
+                The heatmap tensor doesn't exist yet. Set use_precomputed_heatmaps to False and run the code again \
                     to compute it. (this only has to be done once, set use_precomputed_heatmaps=False in all preceeding runs)"
             )
 
