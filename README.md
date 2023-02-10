@@ -5,6 +5,9 @@
 
 ##### <div align="center">![showcase](https://user-images.githubusercontent.com/89709351/216829859-7cd902c5-0c30-4fed-9d70-903ff3b0aac7.gif) Our Covid-19 Particle Simulator.</div>
 
+## Report
+
+You can find our [our executive report](SiMo_COVID19_Simulator_TillZ_BenK.pdf) in this repository if you want to learn more about our project. <br/>
 
 ## How it works:
 
