@@ -1,5 +1,5 @@
 ## 
-# <div align="center">Agent-Based Simulation of the COVID-19 Pandemic <br/> using a SEIR-Model </div>
+# <div align="center">Agent-Based Simulation of the COVID-19 Pandemic <br/> using a SEIR-Model</div>
 ######  <div align="center">Ein Projekt im Modul Simulation & Modellierung von Till Zemann & Ben Kampmann.</div>
 
 
@@ -59,7 +59,7 @@ In case our software is used for future projects, you can refer to the following
 ```txt
 @software{zemann_kampmann_particlesim,
   author = {Till Zemann and Ben Kampmann},
-  title = {Agentenbasierte Simulation der COVID-19 Pandemie mit einem SEIR-Modell},
+  title = {Agent-Based Simulation of the COVID-19 Pandemic <br/> using a SEIR-Model},
   howpublished = {\url{https://github.com/till2/particle_sim}},
   year = {2023},
 }
