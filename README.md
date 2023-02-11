@@ -1,6 +1,6 @@
 ## 
 # <div align="center">Agent-Based Simulation of the COVID-19 Pandemic <br/> using a SEIR-Model</div>
-######  <div align="center">Ein Projekt im Modul Simulation & Modellierung von Till Zemann & Ben Kampmann.</div>
+######  <div align="center">A university project by Till Zemann & Ben Kampmann.</div>
 
 
 ##### <div align="center">![showcase](https://user-images.githubusercontent.com/89709351/216829859-7cd902c5-0c30-4fed-9d70-903ff3b0aac7.gif) Our Covid-19 Particle Simulator.</div>
