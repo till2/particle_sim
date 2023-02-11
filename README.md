@@ -62,7 +62,7 @@ In case our software is used for future projects, you can refer to the following
 ```txt
 @software{zemann_kampmann_particlesim,
   author = {Till Zemann and Ben Kampmann},
-  title = {Agent-Based Simulation of the COVID-19 Pandemic <br/> using a SEIR-Model},
+  title = {Agent-Based Simulation of the COVID-19 Pandemic using a SEIR-Model},
   howpublished = {\url{https://github.com/till2/particle_sim}},
   year = {2023},
 }
